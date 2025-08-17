@@ -52,7 +52,3 @@ Metrics used:
 | SVM                  | 91.4% |
 
 - Logistic Regression achieved the **highest accuracy (92.7%)**, making it the best-performing model in this study.  
-
----
-
-## 📂 Project Structure  
